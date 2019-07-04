@@ -1,7 +1,7 @@
-# Poincare-Gauge-Cosmology
-Symbolic computing package on Poincare gauge gravity and cosmology based on xAct series
-author: Hongchao Zhang
-email: zhanghc@mail.dlut.edu.cn
+# Poincare-Gauge-Cosmology\\
+Symbolic computing package on Poincare gauge gravity and cosmology based on xAct series\\
+author: Hongchao Zhang\\
+email: zhanghc@mail.dlut.edu.cn\\
 Dalian University of Technology & Penn State University
 version: PGC-0.2.7
 Users are required to cite the PGC papers:
