@@ -111,6 +111,8 @@ $PackageDirectory=ParentDirectory[DirectoryName[FindFile["PGC121`"]]];
 If[!ContainsAny[$Path,{$PackageDirectory}],PrependTo[$Path,$PackageDirectory]];
 Print["The current working directory is: ",$PackageDirectory];
 Print[PGC121`bars];
+PrintTemporary["Wait a moment, the code is running ..."];
+Print[PGC121`bars];
 
 
 (* my options: Torsion or Contorsion *)
