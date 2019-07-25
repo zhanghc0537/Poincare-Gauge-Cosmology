@@ -1,0 +1,242 @@
+-2*Riemanncd[-\[Nu], -\[Gamma]$1286839, \[Sigma], -\[Gamma]$1286840]*
+  TorsionCD[\[Gamma]$1286839, -\[Mu], \[Gamma]$1286840] - 
+ 2*Riemanncd[-\[Nu], -\[Gamma]$1286840, \[Sigma], -\[Gamma]$1286839]*
+  TorsionCD[\[Gamma]$1286839, -\[Mu], \[Gamma]$1286840] + 
+ 2*Riemanncd[-\[Mu], -\[Gamma]$1286839, \[Sigma], -\[Gamma]$1286840]*
+  TorsionCD[\[Gamma]$1286839, -\[Nu], \[Gamma]$1286840] + 
+ 2*Riemanncd[-\[Mu], -\[Gamma]$1286840, \[Sigma], -\[Gamma]$1286839]*
+  TorsionCD[\[Gamma]$1286839, -\[Nu], \[Gamma]$1286840] - 
+ (3*TorsionCD[-\[Gamma]$1286839, \[Sigma], -\[Tau]]*
+   TorsionCD[\[Gamma]$1286839, -\[Mu], \[Gamma]$1286840]*
+   TorsionCD[-\[Gamma]$1286840, -\[Nu], \[Tau]])/2 - 
+ (TorsionCD[-\[Gamma]$1286839, -\[Nu], \[Tau]]*TorsionCD[\[Gamma]$1286839, 
+    -\[Mu], \[Gamma]$1286840]*TorsionCD[-\[Gamma]$1286840, \[Sigma], 
+    -\[Tau]])/2 + TorsionCD[\[Gamma]$1286839, -\[Mu], -\[Nu]]*
+  TorsionCD[-\[Gamma]$1286840, -\[Gamma]$1286839, -\[Tau]]*
+  TorsionCD[\[Gamma]$1286840, \[Sigma], \[Tau]] + 
+ (TorsionCD[-\[Gamma]$1286839, -\[Nu], \[Tau]]*TorsionCD[-\[Gamma]$1286840, 
+    \[Sigma], -\[Tau]]*TorsionCD[-\[Mu], \[Gamma]$1286839, \[Gamma]$1286840])/
+  2 + TorsionCD[-\[Gamma]$1286840, -\[Gamma]$1286839, -\[Tau]]*
+  TorsionCD[\[Gamma]$1286840, -\[Nu], \[Tau]]*TorsionCD[-\[Mu], \[Sigma], 
+   \[Gamma]$1286839] - (TorsionCD[-\[Gamma]$1286840, \[Sigma], -\[Tau]]*
+   TorsionCD[-\[Mu], \[Gamma]$1286839, \[Gamma]$1286840]*
+   TorsionCD[-\[Nu], -\[Gamma]$1286839, \[Tau]])/2 - 
+ (TorsionCD[-\[Gamma]$1286839, -\[Mu], \[Tau]]*TorsionCD[-\[Gamma]$1286840, 
+    \[Sigma], -\[Tau]]*TorsionCD[-\[Nu], \[Gamma]$1286839, \[Gamma]$1286840])/
+  2 + (TorsionCD[-\[Gamma]$1286839, -\[Gamma]$1286840, -\[Tau]]*
+   TorsionCD[-\[Mu], \[Sigma], \[Gamma]$1286839]*
+   TorsionCD[-\[Nu], \[Gamma]$1286840, \[Tau]])/2 - 
+ TorsionCD[-\[Gamma]$1286840, -\[Gamma]$1286839, -\[Tau]]*
+  TorsionCD[\[Gamma]$1286840, -\[Mu], \[Tau]]*TorsionCD[-\[Nu], \[Sigma], 
+   \[Gamma]$1286839] - (TorsionCD[-\[Gamma]$1286839, -\[Gamma]$1286840, 
+    -\[Tau]]*TorsionCD[-\[Mu], \[Gamma]$1286840, \[Tau]]*
+   TorsionCD[-\[Nu], \[Sigma], \[Gamma]$1286839])/2 + 
+ (TorsionCD[-\[Gamma]$1286840, -\[Nu], -\[Tau]]*
+   TorsionCD[-\[Mu], \[Gamma]$1286839, \[Gamma]$1286840]*
+   TorsionCD[\[Sigma], -\[Gamma]$1286839, \[Tau]])/2 - 
+ (TorsionCD[-\[Gamma]$1286840, -\[Mu], -\[Tau]]*
+   TorsionCD[-\[Nu], \[Gamma]$1286839, \[Gamma]$1286840]*
+   TorsionCD[\[Sigma], -\[Gamma]$1286839, \[Tau]])/2 - 
+ 2*Riemanncd[-\[Mu], -\[Gamma]$1286839, -\[Nu], -\[Gamma]$1286840]*
+  TorsionCD[\[Sigma], \[Gamma]$1286839, \[Gamma]$1286840] + 
+ (TorsionCD[-\[Gamma]$1286839, -\[Mu], \[Tau]]*TorsionCD[-\[Gamma]$1286840, 
+    -\[Nu], -\[Tau]]*TorsionCD[\[Sigma], \[Gamma]$1286839, \[Gamma]$1286840])/
+  2 + (TorsionCD[-\[Mu], \[Gamma]$1286839, \[Gamma]$1286840]*
+   TorsionCD[-\[Nu], -\[Gamma]$1286839, \[Tau]]*
+   TorsionCD[\[Sigma], -\[Gamma]$1286840, -\[Tau]])/2 + 
+ (TorsionCD[-\[Gamma]$1286839, -\[Gamma]$1286840, -\[Tau]]*
+   TorsionCD[\[Gamma]$1286839, -\[Mu], -\[Nu]]*TorsionCD[\[Sigma], 
+    \[Gamma]$1286840, \[Tau]])/2 + 
+ TorsionCD[-\[Gamma]$1286840, -\[Gamma]$1286839, -\[Tau]]*
+  TorsionCD[\[Gamma]$1286840, -\[Nu], \[Tau]]*TorsionCD[\[Sigma], -\[Mu], 
+   \[Gamma]$1286839] + (TorsionCD[-\[Gamma]$1286839, -\[Gamma]$1286840, 
+    -\[Tau]]*TorsionCD[-\[Nu], \[Gamma]$1286840, \[Tau]]*
+   TorsionCD[\[Sigma], -\[Mu], \[Gamma]$1286839])/2 - 
+ TorsionCD[-\[Gamma]$1286840, -\[Gamma]$1286839, -\[Tau]]*
+  TorsionCD[\[Gamma]$1286840, -\[Mu], \[Tau]]*TorsionCD[\[Sigma], -\[Nu], 
+   \[Gamma]$1286839] - (TorsionCD[-\[Gamma]$1286839, -\[Gamma]$1286840, 
+    -\[Tau]]*TorsionCD[-\[Mu], \[Gamma]$1286840, \[Tau]]*
+   TorsionCD[\[Sigma], -\[Nu], \[Gamma]$1286839])/2 + 
+ TorsionCD[\[Gamma]$1286839, -\[Mu], -\[Nu]]*TorsionCD[\[Gamma]$1286840, 
+   \[Sigma], \[Tau]]*TorsionCD[-\[Tau], -\[Gamma]$1286839, 
+   -\[Gamma]$1286840] + TorsionCD[\[Gamma]$1286840, -\[Nu], \[Tau]]*
+  TorsionCD[-\[Mu], \[Sigma], \[Gamma]$1286839]*
+  TorsionCD[-\[Tau], -\[Gamma]$1286839, -\[Gamma]$1286840] - 
+ TorsionCD[\[Gamma]$1286840, -\[Mu], \[Tau]]*TorsionCD[-\[Nu], \[Sigma], 
+   \[Gamma]$1286839]*TorsionCD[-\[Tau], -\[Gamma]$1286839, 
+   -\[Gamma]$1286840] + TorsionCD[\[Gamma]$1286840, -\[Nu], \[Tau]]*
+  TorsionCD[\[Sigma], -\[Mu], \[Gamma]$1286839]*
+  TorsionCD[-\[Tau], -\[Gamma]$1286839, -\[Gamma]$1286840] - 
+ TorsionCD[\[Gamma]$1286840, -\[Mu], \[Tau]]*TorsionCD[\[Sigma], -\[Nu], 
+   \[Gamma]$1286839]*TorsionCD[-\[Tau], -\[Gamma]$1286839, 
+   -\[Gamma]$1286840] - 
+ (3*TorsionCD[-\[Nu], \[Gamma]$1286839, \[Gamma]$1286840]*
+   TorsionCD[\[Sigma], -\[Gamma]$1286839, \[Tau]]*
+   TorsionCD[-\[Tau], -\[Mu], -\[Gamma]$1286840])/2 + 
+ (3*TorsionCD[-\[Mu], \[Gamma]$1286839, \[Gamma]$1286840]*
+   TorsionCD[\[Sigma], -\[Gamma]$1286839, \[Tau]]*
+   TorsionCD[-\[Tau], -\[Nu], -\[Gamma]$1286840])/2 - 
+ (TorsionCD[-\[Gamma]$1286839, -\[Mu], \[Tau]]*TorsionCD[\[Sigma], 
+    \[Gamma]$1286839, \[Gamma]$1286840]*TorsionCD[-\[Tau], -\[Nu], 
+    -\[Gamma]$1286840])/2 - 
+ (TorsionCD[\[Gamma]$1286839, -\[Mu], \[Gamma]$1286840]*
+   TorsionCD[-\[Gamma]$1286840, -\[Nu], \[Tau]]*TorsionCD[-\[Tau], \[Sigma], 
+    -\[Gamma]$1286839])/2 + (TorsionCD[-\[Gamma]$1286839, -\[Nu], \[Tau]]*
+   TorsionCD[\[Gamma]$1286839, -\[Mu], \[Gamma]$1286840]*
+   TorsionCD[-\[Tau], \[Sigma], -\[Gamma]$1286840])/2 + 
+ (3*TorsionCD[-\[Gamma]$1286839, -\[Nu], \[Tau]]*
+   TorsionCD[-\[Mu], \[Gamma]$1286839, \[Gamma]$1286840]*
+   TorsionCD[-\[Tau], \[Sigma], -\[Gamma]$1286840])/2 + 
+ (TorsionCD[-\[Mu], \[Gamma]$1286839, \[Gamma]$1286840]*
+   TorsionCD[-\[Nu], -\[Gamma]$1286839, \[Tau]]*TorsionCD[-\[Tau], \[Sigma], 
+    -\[Gamma]$1286840])/2 - (3*TorsionCD[-\[Gamma]$1286839, -\[Mu], \[Tau]]*
+   TorsionCD[-\[Nu], \[Gamma]$1286839, \[Gamma]$1286840]*
+   TorsionCD[-\[Tau], \[Sigma], -\[Gamma]$1286840])/2 + 
+ (TorsionCD[-\[Gamma]$1286840, \[Sigma], -\[Tau]]*
+   TorsionCD[-\[Nu], \[Gamma]$1286839, \[Gamma]$1286840]*
+   TorsionCD[\[Tau], -\[Mu], -\[Gamma]$1286839])/2 - 
+ (TorsionCD[-\[Gamma]$1286840, -\[Nu], -\[Tau]]*
+   TorsionCD[\[Sigma], \[Gamma]$1286839, \[Gamma]$1286840]*
+   TorsionCD[\[Tau], -\[Mu], -\[Gamma]$1286839])/2 - 
+ (3*TorsionCD[\[Sigma], \[Gamma]$1286839, \[Gamma]$1286840]*
+   TorsionCD[-\[Tau], -\[Nu], -\[Gamma]$1286840]*TorsionCD[\[Tau], -\[Mu], 
+    -\[Gamma]$1286839])/2 - 
+ (TorsionCD[-\[Nu], \[Gamma]$1286839, \[Gamma]$1286840]*
+   TorsionCD[-\[Tau], \[Sigma], -\[Gamma]$1286840]*
+   TorsionCD[\[Tau], -\[Mu], -\[Gamma]$1286839])/2 + 
+ (TorsionCD[\[Gamma]$1286839, -\[Mu], \[Gamma]$1286840]*
+   TorsionCD[-\[Gamma]$1286840, \[Sigma], -\[Tau]]*
+   TorsionCD[\[Tau], -\[Nu], -\[Gamma]$1286839])/2 - 
+ (TorsionCD[-\[Gamma]$1286840, \[Sigma], -\[Tau]]*
+   TorsionCD[-\[Mu], \[Gamma]$1286839, \[Gamma]$1286840]*
+   TorsionCD[\[Tau], -\[Nu], -\[Gamma]$1286839])/2 + 
+ (3*TorsionCD[\[Gamma]$1286839, -\[Mu], \[Gamma]$1286840]*
+   TorsionCD[-\[Tau], \[Sigma], -\[Gamma]$1286840]*
+   TorsionCD[\[Tau], -\[Nu], -\[Gamma]$1286839])/2 + 
+ (TorsionCD[-\[Mu], \[Gamma]$1286839, \[Gamma]$1286840]*
+   TorsionCD[-\[Tau], \[Sigma], -\[Gamma]$1286840]*
+   TorsionCD[\[Tau], -\[Nu], -\[Gamma]$1286839])/2 - 
+ (TorsionCD[-\[Gamma]$1286839, \[Sigma], -\[Tau]]*
+   TorsionCD[\[Gamma]$1286839, -\[Mu], \[Gamma]$1286840]*
+   TorsionCD[\[Tau], -\[Nu], -\[Gamma]$1286840])/2 + 
+ (TorsionCD[\[Gamma]$1286839, -\[Mu], \[Gamma]$1286840]*
+   TorsionCD[-\[Tau], \[Sigma], -\[Gamma]$1286839]*
+   TorsionCD[\[Tau], -\[Nu], -\[Gamma]$1286840])/2 - 
+ 2*cd[-\[Gamma]$1286839][Riemanncd[-\[Mu], \[Gamma]$1286839, -\[Nu], 
+    \[Sigma]]] + 2*cd[-\[Gamma]$1286839][Riemanncd[-\[Mu], -\[Nu], \[Sigma], 
+    \[Gamma]$1286839]] + 2*cd[-\[Gamma]$1286839][Riemanncd[-\[Mu], \[Sigma], 
+    -\[Nu], \[Gamma]$1286839]] - 2*TorsionCD[\[Gamma]$1286839, \[Sigma], 
+   \[Gamma]$1286840]*cd[-\[Gamma]$1286839][TorsionCD[-\[Gamma]$1286840, 
+    -\[Mu], -\[Nu]]] - 2*TorsionCD[\[Gamma]$1286839, -\[Nu], 
+   \[Gamma]$1286840]*cd[-\[Gamma]$1286839][TorsionCD[-\[Mu], \[Sigma], 
+    -\[Gamma]$1286840]] + 2*TorsionCD[\[Gamma]$1286839, -\[Mu], 
+   \[Gamma]$1286840]*cd[-\[Gamma]$1286839][TorsionCD[-\[Nu], \[Sigma], 
+    -\[Gamma]$1286840]] - 2*TorsionCD[\[Gamma]$1286839, -\[Nu], 
+   \[Gamma]$1286840]*cd[-\[Gamma]$1286839][TorsionCD[\[Sigma], -\[Mu], 
+    -\[Gamma]$1286840]] + 2*TorsionCD[\[Gamma]$1286839, -\[Mu], 
+   \[Gamma]$1286840]*cd[-\[Gamma]$1286839][TorsionCD[\[Sigma], -\[Nu], 
+    -\[Gamma]$1286840]] + cd[-\[Gamma]$1286839][
+  cd[\[Gamma]$1286839][TorsionCD[-\[Mu], -\[Nu], \[Sigma]]]] - 
+ cd[-\[Gamma]$1286839][cd[\[Gamma]$1286839][TorsionCD[-\[Nu], -\[Mu], 
+    \[Sigma]]]] - 3*cd[-\[Gamma]$1286839][cd[\[Gamma]$1286839][
+    TorsionCD[\[Sigma], -\[Mu], -\[Nu]]]] - cd[-\[Gamma]$1286839][
+  cd[-\[Mu]][TorsionCD[\[Gamma]$1286839, -\[Nu], \[Sigma]]]] + 
+ cd[-\[Gamma]$1286839][cd[-\[Mu]][TorsionCD[-\[Nu], \[Sigma], 
+    \[Gamma]$1286839]]] - cd[-\[Gamma]$1286839][
+  cd[-\[Mu]][TorsionCD[\[Sigma], -\[Nu], \[Gamma]$1286839]]] + 
+ cd[-\[Gamma]$1286839][cd[-\[Nu]][TorsionCD[\[Gamma]$1286839, -\[Mu], 
+    \[Sigma]]]] - cd[-\[Gamma]$1286839][
+  cd[-\[Nu]][TorsionCD[-\[Mu], \[Sigma], \[Gamma]$1286839]]] + 
+ cd[-\[Gamma]$1286839][cd[-\[Nu]][TorsionCD[\[Sigma], -\[Mu], 
+    \[Gamma]$1286839]]] + cd[-\[Gamma]$1286839][
+  cd[\[Sigma]][TorsionCD[\[Gamma]$1286839, -\[Mu], -\[Nu]]]] - 
+ cd[-\[Gamma]$1286839][cd[\[Sigma]][TorsionCD[-\[Mu], -\[Nu], 
+    \[Gamma]$1286839]]] + cd[-\[Gamma]$1286839][
+  cd[\[Sigma]][TorsionCD[-\[Nu], -\[Mu], \[Gamma]$1286839]]] + 
+ TorsionCD[-\[Nu], \[Sigma], \[Gamma]$1286839]*
+  cd[-\[Gamma]$1286840][TorsionCD[-\[Gamma]$1286839, -\[Mu], 
+    \[Gamma]$1286840]] + TorsionCD[\[Sigma], -\[Nu], \[Gamma]$1286839]*
+  cd[-\[Gamma]$1286840][TorsionCD[-\[Gamma]$1286839, -\[Mu], 
+    \[Gamma]$1286840]] - 2*TorsionCD[\[Gamma]$1286839, \[Sigma], 
+   \[Gamma]$1286840]*cd[-\[Gamma]$1286840][TorsionCD[-\[Gamma]$1286839, 
+    -\[Mu], -\[Nu]]] + 2*TorsionCD[\[Sigma], \[Gamma]$1286839, 
+   \[Gamma]$1286840]*cd[-\[Gamma]$1286840][TorsionCD[-\[Gamma]$1286839, 
+    -\[Mu], -\[Nu]]] - TorsionCD[-\[Mu], \[Sigma], \[Gamma]$1286839]*
+  cd[-\[Gamma]$1286840][TorsionCD[-\[Gamma]$1286839, -\[Nu], 
+    \[Gamma]$1286840]] - TorsionCD[\[Sigma], -\[Mu], \[Gamma]$1286839]*
+  cd[-\[Gamma]$1286840][TorsionCD[-\[Gamma]$1286839, -\[Nu], 
+    \[Gamma]$1286840]] - TorsionCD[\[Gamma]$1286839, -\[Mu], -\[Nu]]*
+  cd[-\[Gamma]$1286840][TorsionCD[-\[Gamma]$1286839, \[Sigma], 
+    \[Gamma]$1286840]] + TorsionCD[-\[Nu], \[Sigma], \[Gamma]$1286839]*
+  cd[-\[Gamma]$1286840][TorsionCD[\[Gamma]$1286840, -\[Mu], 
+    -\[Gamma]$1286839]] + TorsionCD[\[Sigma], -\[Nu], \[Gamma]$1286839]*
+  cd[-\[Gamma]$1286840][TorsionCD[\[Gamma]$1286840, -\[Mu], 
+    -\[Gamma]$1286839]] - TorsionCD[-\[Mu], \[Sigma], \[Gamma]$1286839]*
+  cd[-\[Gamma]$1286840][TorsionCD[\[Gamma]$1286840, -\[Nu], 
+    -\[Gamma]$1286839]] - TorsionCD[\[Sigma], -\[Mu], \[Gamma]$1286839]*
+  cd[-\[Gamma]$1286840][TorsionCD[\[Gamma]$1286840, -\[Nu], 
+    -\[Gamma]$1286839]] - TorsionCD[\[Gamma]$1286839, -\[Mu], -\[Nu]]*
+  cd[-\[Gamma]$1286840][TorsionCD[\[Gamma]$1286840, \[Sigma], 
+    -\[Gamma]$1286839]] - TorsionCD[-\[Nu], \[Sigma], \[Gamma]$1286839]*
+  cd[-\[Gamma]$1286840][TorsionCD[-\[Mu], -\[Gamma]$1286839, 
+    \[Gamma]$1286840]] - TorsionCD[\[Sigma], -\[Nu], \[Gamma]$1286839]*
+  cd[-\[Gamma]$1286840][TorsionCD[-\[Mu], -\[Gamma]$1286839, 
+    \[Gamma]$1286840]] - 2*TorsionCD[\[Gamma]$1286839, -\[Nu], 
+   \[Gamma]$1286840]*cd[-\[Gamma]$1286840][TorsionCD[-\[Mu], \[Sigma], 
+    -\[Gamma]$1286839]] + 2*TorsionCD[-\[Nu], \[Gamma]$1286839, 
+   \[Gamma]$1286840]*cd[-\[Gamma]$1286840][TorsionCD[-\[Mu], \[Sigma], 
+    -\[Gamma]$1286839]] + TorsionCD[-\[Mu], \[Sigma], \[Gamma]$1286839]*
+  cd[-\[Gamma]$1286840][TorsionCD[-\[Nu], -\[Gamma]$1286839, 
+    \[Gamma]$1286840]] + TorsionCD[\[Sigma], -\[Mu], \[Gamma]$1286839]*
+  cd[-\[Gamma]$1286840][TorsionCD[-\[Nu], -\[Gamma]$1286839, 
+    \[Gamma]$1286840]] + 2*TorsionCD[\[Gamma]$1286839, -\[Mu], 
+   \[Gamma]$1286840]*cd[-\[Gamma]$1286840][TorsionCD[-\[Nu], \[Sigma], 
+    -\[Gamma]$1286839]] - 2*TorsionCD[-\[Mu], \[Gamma]$1286839, 
+   \[Gamma]$1286840]*cd[-\[Gamma]$1286840][TorsionCD[-\[Nu], \[Sigma], 
+    -\[Gamma]$1286839]] + TorsionCD[\[Gamma]$1286839, -\[Mu], -\[Nu]]*
+  cd[-\[Gamma]$1286840][TorsionCD[\[Sigma], -\[Gamma]$1286839, 
+    \[Gamma]$1286840]] - 2*TorsionCD[\[Gamma]$1286839, -\[Nu], 
+   \[Gamma]$1286840]*cd[-\[Gamma]$1286840][TorsionCD[\[Sigma], -\[Mu], 
+    -\[Gamma]$1286839]] + 2*TorsionCD[-\[Nu], \[Gamma]$1286839, 
+   \[Gamma]$1286840]*cd[-\[Gamma]$1286840][TorsionCD[\[Sigma], -\[Mu], 
+    -\[Gamma]$1286839]] + 2*TorsionCD[\[Gamma]$1286839, -\[Mu], 
+   \[Gamma]$1286840]*cd[-\[Gamma]$1286840][TorsionCD[\[Sigma], -\[Nu], 
+    -\[Gamma]$1286839]] - 2*TorsionCD[-\[Mu], \[Gamma]$1286839, 
+   \[Gamma]$1286840]*cd[-\[Gamma]$1286840][TorsionCD[\[Sigma], -\[Nu], 
+    -\[Gamma]$1286839]] - TorsionCD[\[Gamma]$1286839, \[Sigma], 
+   \[Gamma]$1286840]*cd[-\[Mu]][TorsionCD[-\[Gamma]$1286839, -\[Nu], 
+    -\[Gamma]$1286840]] + TorsionCD[\[Gamma]$1286839, -\[Nu], 
+   \[Gamma]$1286840]*cd[-\[Mu]][TorsionCD[-\[Gamma]$1286839, \[Sigma], 
+    -\[Gamma]$1286840]] - TorsionCD[\[Gamma]$1286839, \[Sigma], 
+   \[Gamma]$1286840]*cd[-\[Mu]][TorsionCD[-\[Gamma]$1286840, -\[Nu], 
+    -\[Gamma]$1286839]] + TorsionCD[\[Gamma]$1286839, -\[Nu], 
+   \[Gamma]$1286840]*cd[-\[Mu]][TorsionCD[-\[Gamma]$1286840, \[Sigma], 
+    -\[Gamma]$1286839]] - 
+ (TorsionCD[\[Sigma], \[Gamma]$1286839, \[Gamma]$1286840]*
+   cd[-\[Mu]][TorsionCD[-\[Nu], -\[Gamma]$1286839, -\[Gamma]$1286840]])/2 + 
+ (TorsionCD[-\[Nu], \[Gamma]$1286839, \[Gamma]$1286840]*
+   cd[-\[Mu]][TorsionCD[\[Sigma], -\[Gamma]$1286839, -\[Gamma]$1286840]])/2 + 
+ TorsionCD[\[Gamma]$1286839, \[Sigma], \[Gamma]$1286840]*
+  cd[-\[Nu]][TorsionCD[-\[Gamma]$1286839, -\[Mu], -\[Gamma]$1286840]] - 
+ TorsionCD[\[Gamma]$1286839, -\[Mu], \[Gamma]$1286840]*
+  cd[-\[Nu]][TorsionCD[-\[Gamma]$1286839, \[Sigma], -\[Gamma]$1286840]] + 
+ TorsionCD[\[Gamma]$1286839, \[Sigma], \[Gamma]$1286840]*
+  cd[-\[Nu]][TorsionCD[-\[Gamma]$1286840, -\[Mu], -\[Gamma]$1286839]] - 
+ TorsionCD[\[Gamma]$1286839, -\[Mu], \[Gamma]$1286840]*
+  cd[-\[Nu]][TorsionCD[-\[Gamma]$1286840, \[Sigma], -\[Gamma]$1286839]] + 
+ (TorsionCD[\[Sigma], \[Gamma]$1286839, \[Gamma]$1286840]*
+   cd[-\[Nu]][TorsionCD[-\[Mu], -\[Gamma]$1286839, -\[Gamma]$1286840]])/2 - 
+ (TorsionCD[-\[Mu], \[Gamma]$1286839, \[Gamma]$1286840]*
+   cd[-\[Nu]][TorsionCD[\[Sigma], -\[Gamma]$1286839, -\[Gamma]$1286840]])/2 + 
+ TorsionCD[\[Gamma]$1286839, -\[Nu], \[Gamma]$1286840]*
+  cd[\[Sigma]][TorsionCD[-\[Gamma]$1286839, -\[Mu], -\[Gamma]$1286840]] - 
+ TorsionCD[\[Gamma]$1286839, -\[Mu], \[Gamma]$1286840]*
+  cd[\[Sigma]][TorsionCD[-\[Gamma]$1286839, -\[Nu], -\[Gamma]$1286840]] + 
+ TorsionCD[\[Gamma]$1286839, -\[Nu], \[Gamma]$1286840]*
+  cd[\[Sigma]][TorsionCD[-\[Gamma]$1286840, -\[Mu], -\[Gamma]$1286839]] - 
+ TorsionCD[\[Gamma]$1286839, -\[Mu], \[Gamma]$1286840]*
+  cd[\[Sigma]][TorsionCD[-\[Gamma]$1286840, -\[Nu], -\[Gamma]$1286839]] + 
+ (TorsionCD[-\[Nu], \[Gamma]$1286839, \[Gamma]$1286840]*
+   cd[\[Sigma]][TorsionCD[-\[Mu], -\[Gamma]$1286839, -\[Gamma]$1286840]])/2 - 
+ (TorsionCD[-\[Mu], \[Gamma]$1286839, \[Gamma]$1286840]*
+   cd[\[Sigma]][TorsionCD[-\[Nu], -\[Gamma]$1286839, -\[Gamma]$1286840]])/2

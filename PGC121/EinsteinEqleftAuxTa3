@@ -1,0 +1,5 @@
+-(TorsionCD[\[Gamma]$1228125, -\[Mu], -\[Gamma]$1228125]*
+   TorsionCD[\[Gamma]$1228126, -\[Nu], -\[Gamma]$1228126]) - 
+ (metric[-\[Mu], -\[Nu]]*TorsionCD[\[Gamma]$1228125, -\[Gamma]$1228125, 
+    \[Gamma]$1228126]*TorsionCD[\[Gamma]$1228127, -\[Gamma]$1228126, 
+    -\[Gamma]$1228127])/2

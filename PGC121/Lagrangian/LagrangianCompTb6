@@ -1,0 +1,2 @@
+(144*(3*f[t[]]*Derivative[1][a][t[]] + 
+    a[t[]]*(-2*f[t[]]*h[t[]] + Derivative[1][f][t[]]))^2)/a[t[]]^2

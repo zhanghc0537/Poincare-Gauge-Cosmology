@@ -1,0 +1,3 @@
+(36*(-Derivative[1][a][t[]]^2 + a[t[]]^2*(f[t[]]^2 - h[t[]]^2 + 
+      Derivative[1][h][t[]]) + a[t[]]*(3*h[t[]]*Derivative[1][a][t[]] - 
+      Derivative[2][a][t[]]))^2)/a[t[]]^4

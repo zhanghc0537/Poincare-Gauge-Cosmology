@@ -1,0 +1,42 @@
+{{{0, 0, 0, 0}, {0, (96*f[t[]]*(3*f[t[]]*Derivative[1][a][t[]] + 
+      a[t[]]*(-2*f[t[]]*h[t[]] + Derivative[1][f][t[]])))/a[t[]], 0, 0}, 
+  {0, 0, (96*f[t[]]*(3*f[t[]]*Derivative[1][a][t[]] + 
+      a[t[]]*(-2*f[t[]]*h[t[]] + Derivative[1][f][t[]])))/a[t[]], 0}, 
+  {0, 0, 0, (96*f[t[]]*(3*f[t[]]*Derivative[1][a][t[]] + 
+      a[t[]]*(-2*f[t[]]*h[t[]] + Derivative[1][f][t[]])))/a[t[]]}}, 
+ {{0, (-96*f[t[]]*(3*f[t[]]*Derivative[1][a][t[]] + 
+      a[t[]]*(-2*f[t[]]*h[t[]] + Derivative[1][f][t[]])))/a[t[]], 0, 0}, 
+  {0, 0, 0, 0}, {0, 0, 0, 24*((3*f[t[]]*Derivative[1][a][t[]]^2)/a[t[]] - 
+     3*(Derivative[1][a][t[]]*Derivative[1][f][t[]] + 
+       f[t[]]*(2*h[t[]]*Derivative[1][a][t[]] + Derivative[2][a][t[]])) + 
+     a[t[]]*(2*f[t[]]*(2*h[t[]]^2 + Derivative[1][h][t[]]) - 
+       Derivative[2][f][t[]]))}, 
+  {0, 0, 24*((-3*f[t[]]*Derivative[1][a][t[]]^2)/a[t[]] + 
+     3*(Derivative[1][a][t[]]*Derivative[1][f][t[]] + 
+       f[t[]]*(2*h[t[]]*Derivative[1][a][t[]] + Derivative[2][a][t[]])) + 
+     a[t[]]*(-2*f[t[]]*(2*h[t[]]^2 + Derivative[1][h][t[]]) + 
+       Derivative[2][f][t[]])), 0}}, 
+ {{0, 0, (-96*f[t[]]*(3*f[t[]]*Derivative[1][a][t[]] + 
+      a[t[]]*(-2*f[t[]]*h[t[]] + Derivative[1][f][t[]])))/a[t[]], 0}, 
+  {0, 0, 0, 24*((-3*f[t[]]*Derivative[1][a][t[]]^2)/a[t[]] + 
+     3*(Derivative[1][a][t[]]*Derivative[1][f][t[]] + 
+       f[t[]]*(2*h[t[]]*Derivative[1][a][t[]] + Derivative[2][a][t[]])) + 
+     a[t[]]*(-2*f[t[]]*(2*h[t[]]^2 + Derivative[1][h][t[]]) + 
+       Derivative[2][f][t[]]))}, {0, 0, 0, 0}, 
+  {0, 24*((3*f[t[]]*Derivative[1][a][t[]]^2)/a[t[]] - 
+     3*(Derivative[1][a][t[]]*Derivative[1][f][t[]] + 
+       f[t[]]*(2*h[t[]]*Derivative[1][a][t[]] + Derivative[2][a][t[]])) + 
+     a[t[]]*(2*f[t[]]*(2*h[t[]]^2 + Derivative[1][h][t[]]) - 
+       Derivative[2][f][t[]])), 0, 0}}, 
+ {{0, 0, 0, (-96*f[t[]]*(3*f[t[]]*Derivative[1][a][t[]] + 
+      a[t[]]*(-2*f[t[]]*h[t[]] + Derivative[1][f][t[]])))/a[t[]]}, 
+  {0, 0, 24*((3*f[t[]]*Derivative[1][a][t[]]^2)/a[t[]] - 
+     3*(Derivative[1][a][t[]]*Derivative[1][f][t[]] + 
+       f[t[]]*(2*h[t[]]*Derivative[1][a][t[]] + Derivative[2][a][t[]])) + 
+     a[t[]]*(2*f[t[]]*(2*h[t[]]^2 + Derivative[1][h][t[]]) - 
+       Derivative[2][f][t[]])), 0}, 
+  {0, 24*((-3*f[t[]]*Derivative[1][a][t[]]^2)/a[t[]] + 
+     3*(Derivative[1][a][t[]]*Derivative[1][f][t[]] + 
+       f[t[]]*(2*h[t[]]*Derivative[1][a][t[]] + Derivative[2][a][t[]])) + 
+     a[t[]]*(-2*f[t[]]*(2*h[t[]]^2 + Derivative[1][h][t[]]) + 
+       Derivative[2][f][t[]])), 0, 0}, {0, 0, 0, 0}}}

@@ -1,0 +1,5 @@
+-(delta[-\[Nu], \[Sigma]]*TorsionCD[\[Gamma]$1224623, -\[Mu], 
+    -\[Gamma]$1224623]) + delta[-\[Mu], \[Sigma]]*
+  TorsionCD[\[Gamma]$1224623, -\[Nu], -\[Gamma]$1224623] - 
+ TorsionCD[-\[Mu], -\[Nu], \[Sigma]]/2 + TorsionCD[-\[Nu], -\[Mu], \[Sigma]]/
+  2 + TorsionCD[\[Sigma], -\[Mu], -\[Nu]]/2

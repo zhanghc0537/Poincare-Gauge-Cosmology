@@ -1,0 +1,10 @@
+(12*(-4*a[t[]]*h[t[]]*Derivative[1][a][t[]]^3 + Derivative[1][a][t[]]^4 + 
+   a[t[]]^4*(f[t[]]^4 - 2*f[t[]]^2*h[t[]]^2 + h[t[]]^4 + 
+     4*f[t[]]*h[t[]]*Derivative[1][f][t[]] + Derivative[1][h][t[]]^2) + 
+   2*a[t[]]^3*(4*f[t[]]^2*h[t[]]*Derivative[1][a][t[]] - 
+     2*h[t[]]^3*Derivative[1][a][t[]] - 2*f[t[]]*Derivative[1][a][t[]]*
+      Derivative[1][f][t[]] + h[t[]]*Derivative[1][a][t[]]*
+      Derivative[1][h][t[]] - Derivative[1][h][t[]]*Derivative[2][a][t[]]) + 
+   a[t[]]^2*(-6*f[t[]]^2*Derivative[1][a][t[]]^2 + 
+     7*h[t[]]^2*Derivative[1][a][t[]]^2 - 2*h[t[]]*Derivative[1][a][t[]]*
+      Derivative[2][a][t[]] + Derivative[2][a][t[]]^2)))/a[t[]]^4
