@@ -33,7 +33,9 @@ PGC121`$Version={"1.2.1",{2019,7,22}}
 
 (* arXiv: 1904.03545, arXiv: 1906.04340 *)
 
-(* This package is based on the xAct series, version 1.1.2. For more information please transfer to the site: http://www.xact.es/ *)
+(* Acknowledgement: This package is based on the Wolfram Mathematica and the xAct series.
+   For more information about the xAct, please transfer to the site: http://www.xact.es/
+ *)
 
 
 (************************ 1. Begin package ***********************)
