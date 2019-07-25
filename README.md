@@ -64,4 +64,10 @@ MSWindows:
 
    Beware that in Windows these directories might be hidden!
 
-For more detail about how to install and load Mathematica packages, please read the "install" file of xAct. In the file "PGC121_test_0.nb" attached to PGC121 archive, you can find some examples and usages.
+Notes:
+
+   - For more detail about how to install and load Mathematica packages, please read the "install" file of xAct.
+   
+   - In the file "PGC121_test_0.nb" attached to PGC121 archive, you can find some examples and usages.
+
+   - The xAct document files would be helpful if you want to learn more operations about the tensor computer algebra.
